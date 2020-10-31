@@ -12,6 +12,6 @@ This application create using:
   * [Kevin Kurniawan](https://github.com/kevinkurniawan97) as Product Owner
   * [Joseph](https://github.com/josephgunawan97) as Scrum Master
   * [Jessica Sean](
-https://github.com/jessicasean) , [Steven Albert](
+https://github.com/jessicaseann) , [Steven Albert](
 https://github.com/stevenalbert ), [Clarissa Veronica](
 https://github.com/clarissaveronica) and [Rickhen Hermawan](https://github.com/rickhenhermawan) as Team
